@@ -1,0 +1,10 @@
+body{font-family:Arial;background:#eef3f8;margin:0}
+header{background:#123f7a;color:white;padding:20px}
+.cards{display:flex;gap:15px;padding:15px}
+.card{background:white;padding:15px;border-radius:10px;flex:1}
+.grid{display:grid;grid-template-columns:1.2fr 1fr;gap:15px;padding:15px}
+.panel{background:white;border-radius:10px;padding:15px}
+#map{height:500px}
+table{width:100%;border-collapse:collapse}
+td,th{border-bottom:1px solid #ddd;padding:6px}
+input{width:100%;padding:8px;margin-bottom:10px}

@@ -1,0 +1,677 @@
+[
+  {
+    "District": "Gautam Buddha Nagar",
+    "GDDP Score": 95,
+    "PC GDDP Score": 95,
+    "Structural Score": 84.49,
+    "CAGR Score": 87.44,
+    "Economic Strength Score": 91.09,
+    "Rank": 1
+  },
+  {
+    "District": "Ghaziabad",
+    "GDDP Score": 75.67,
+    "PC GDDP Score": 73.83,
+    "Structural Score": 90.8,
+    "CAGR Score": 47.23,
+    "Economic Strength Score": 77,
+    "Rank": 2
+  },
+  {
+    "District": "Lucknow",
+    "GDDP Score": 79.25,
+    "PC GDDP Score": 74.12,
+    "Structural Score": 69.8,
+    "CAGR Score": 48.08,
+    "Economic Strength Score": 72.27,
+    "Rank": 3
+  },
+  {
+    "District": "Prayagraj",
+    "GDDP Score": 66.55,
+    "PC GDDP Score": 45.04,
+    "Structural Score": 62.13,
+    "CAGR Score": 81.33,
+    "Economic Strength Score": 62.4,
+    "Rank": 4
+  },
+  {
+    "District": "Kanpur Nagar",
+    "GDDP Score": 63.97,
+    "PC GDDP Score": 53.6,
+    "Structural Score": 70.27,
+    "CAGR Score": 31.08,
+    "Economic Strength Score": 60.5,
+    "Rank": 5
+  },
+  {
+    "District": "Agra",
+    "GDDP Score": 64.46,
+    "PC GDDP Score": 52.4,
+    "Structural Score": 61.88,
+    "CAGR Score": 50.22,
+    "Economic Strength Score": 59.85,
+    "Rank": 6
+  },
+  {
+    "District": "Meerut",
+    "GDDP Score": 60.76,
+    "PC GDDP Score": 57.61,
+    "Structural Score": 50.77,
+    "CAGR Score": 49.25,
+    "Economic Strength Score": 55.98,
+    "Rank": 7
+  },
+  {
+    "District": "Varanasi",
+    "GDDP Score": 54.46,
+    "PC GDDP Score": 44.28,
+    "Structural Score": 63.76,
+    "CAGR Score": 52.39,
+    "Economic Strength Score": 55.01,
+    "Rank": 8
+  },
+  {
+    "District": "Gorakhpur",
+    "GDDP Score": 57.03,
+    "PC GDDP Score": 41.24,
+    "Structural Score": 55.16,
+    "CAGR Score": 67.08,
+    "Economic Strength Score": 54.32,
+    "Rank": 9
+  },
+  {
+    "District": "Bareilly",
+    "GDDP Score": 57.55,
+    "PC GDDP Score": 40.66,
+    "Structural Score": 53.13,
+    "CAGR Score": 41.07,
+    "Economic Strength Score": 51.2,
+    "Rank": 10
+  },
+  {
+    "District": "Mathura",
+    "GDDP Score": 49.78,
+    "PC GDDP Score": 48.84,
+    "Structural Score": 53.84,
+    "CAGR Score": 48.62,
+    "Economic Strength Score": 50.69,
+    "Rank": 11
+  },
+  {
+    "District": "Sonbhadra",
+    "GDDP Score": 50.05,
+    "PC GDDP Score": 59.81,
+    "Structural Score": 48.53,
+    "CAGR Score": 28.05,
+    "Economic Strength Score": 49.35,
+    "Rank": 12
+  },
+  {
+    "District": "Ayodhya",
+    "GDDP Score": 44.95,
+    "PC GDDP Score": 43.3,
+    "Structural Score": 45.33,
+    "CAGR Score": 89.5,
+    "Economic Strength Score": 49.19,
+    "Rank": 13
+  },
+  {
+    "District": "Aligarh",
+    "GDDP Score": 53.63,
+    "PC GDDP Score": 41.44,
+    "Structural Score": 46.37,
+    "CAGR Score": 49.3,
+    "Economic Strength Score": 48.58,
+    "Rank": 14
+  },
+  {
+    "District": "Moradabad",
+    "GDDP Score": 49.27,
+    "PC GDDP Score": 39.69,
+    "Structural Score": 51.81,
+    "CAGR Score": 46.43,
+    "Economic Strength Score": 47.83,
+    "Rank": 15
+  },
+  {
+    "District": "Bulandshahr",
+    "GDDP Score": 54.72,
+    "PC GDDP Score": 45.74,
+    "Structural Score": 35.85,
+    "CAGR Score": 56.1,
+    "Economic Strength Score": 47.4,
+    "Rank": 16
+  },
+  {
+    "District": "Jhansi",
+    "GDDP Score": 45.79,
+    "PC GDDP Score": 53.6,
+    "Structural Score": 40.13,
+    "CAGR Score": 51.64,
+    "Economic Strength Score": 46.24,
+    "Rank": 17
+  },
+  {
+    "District": "Hapur",
+    "GDDP Score": 35.37,
+    "PC GDDP Score": 50.49,
+    "Structural Score": 55.07,
+    "CAGR Score": 52.38,
+    "Economic Strength Score": 46.01,
+    "Rank": 18
+  },
+  {
+    "District": "Amethi",
+    "GDDP Score": 32.82,
+    "PC GDDP Score": 41.15,
+    "Structural Score": 50.25,
+    "CAGR Score": 94.44,
+    "Economic Strength Score": 45.88,
+    "Rank": 19
+  },
+  {
+    "District": "Muzaffarnagar",
+    "GDDP Score": 48.98,
+    "PC GDDP Score": 44.58,
+    "Structural Score": 42.47,
+    "CAGR Score": 35.16,
+    "Economic Strength Score": 44.76,
+    "Rank": 20
+  },
+  {
+    "District": "Saharanpur",
+    "GDDP Score": 52.86,
+    "PC GDDP Score": 43.19,
+    "Structural Score": 38.14,
+    "CAGR Score": 35.06,
+    "Economic Strength Score": 44.73,
+    "Rank": 21
+  },
+  {
+    "District": "Bijnor",
+    "GDDP Score": 49.47,
+    "PC GDDP Score": 35.95,
+    "Structural Score": 36.79,
+    "CAGR Score": 47.18,
+    "Economic Strength Score": 42.73,
+    "Rank": 22
+  },
+  {
+    "District": "Hathras",
+    "GDDP Score": 36.69,
+    "PC GDDP Score": 47.19,
+    "Structural Score": 24.61,
+    "CAGR Score": 95,
+    "Economic Strength Score": 41,
+    "Rank": 23
+  },
+  {
+    "District": "Amroha",
+    "GDDP Score": 39.15,
+    "PC GDDP Score": 43.64,
+    "Structural Score": 39.83,
+    "CAGR Score": 45.18,
+    "Economic Strength Score": 40.85,
+    "Rank": 24
+  },
+  {
+    "District": "Raebareli",
+    "GDDP Score": 40.11,
+    "PC GDDP Score": 23.65,
+    "Structural Score": 45.34,
+    "CAGR Score": 60.65,
+    "Economic Strength Score": 40.44,
+    "Rank": 25
+  },
+  {
+    "District": "Rampur",
+    "GDDP Score": 40.97,
+    "PC GDDP Score": 38.06,
+    "Structural Score": 37.92,
+    "CAGR Score": 48.3,
+    "Economic Strength Score": 40.21,
+    "Rank": 26
+  },
+  {
+    "District": "Mirzapur",
+    "GDDP Score": 38.66,
+    "PC GDDP Score": 32.73,
+    "Structural Score": 44.14,
+    "CAGR Score": 41.48,
+    "Economic Strength Score": 39.4,
+    "Rank": 27
+  },
+  {
+    "District": "Shahjahanpur",
+    "GDDP Score": 43.21,
+    "PC GDDP Score": 33.21,
+    "Structural Score": 28.56,
+    "CAGR Score": 68.67,
+    "Economic Strength Score": 39.36,
+    "Rank": 28
+  },
+  {
+    "District": "Sitapur",
+    "GDDP Score": 50.5,
+    "PC GDDP Score": 28.63,
+    "Structural Score": 25.75,
+    "CAGR Score": 51.94,
+    "Economic Strength Score": 38.85,
+    "Rank": 29
+  },
+  {
+    "District": "Basti",
+    "GDDP Score": 36.33,
+    "PC GDDP Score": 29.35,
+    "Structural Score": 35.64,
+    "CAGR Score": 74.2,
+    "Economic Strength Score": 38.51,
+    "Rank": 30
+  },
+  {
+    "District": "Lakhimpur Kheri",
+    "GDDP Score": 50.62,
+    "PC GDDP Score": 32.49,
+    "Structural Score": 19.9,
+    "CAGR Score": 51.56,
+    "Economic Strength Score": 37.87,
+    "Rank": 31
+  },
+  {
+    "District": "Hardoi",
+    "GDDP Score": 45.61,
+    "PC GDDP Score": 24.96,
+    "Structural Score": 30.93,
+    "CAGR Score": 53.53,
+    "Economic Strength Score": 37.87,
+    "Rank": 32
+  },
+  {
+    "District": "Firozabad",
+    "GDDP Score": 39.43,
+    "PC GDDP Score": 32.98,
+    "Structural Score": 36.16,
+    "CAGR Score": 45.84,
+    "Economic Strength Score": 37.8,
+    "Rank": 33
+  },
+  {
+    "District": "Ambedkar Nagar",
+    "GDDP Score": 34.95,
+    "PC GDDP Score": 28.11,
+    "Structural Score": 44.8,
+    "CAGR Score": 46.32,
+    "Economic Strength Score": 37.67,
+    "Rank": 34
+  },
+  {
+    "District": "Jaunpur",
+    "GDDP Score": 41.84,
+    "PC GDDP Score": 16.84,
+    "Structural Score": 41.29,
+    "CAGR Score": 40.05,
+    "Economic Strength Score": 36.5,
+    "Rank": 35
+  },
+  {
+    "District": "Etah",
+    "GDDP Score": 34.21,
+    "PC GDDP Score": 57.67,
+    "Structural Score": 16.98,
+    "CAGR Score": 60.63,
+    "Economic Strength Score": 36.38,
+    "Rank": 36
+  },
+  {
+    "District": "Ghazipur",
+    "GDDP Score": 39.79,
+    "PC GDDP Score": 20.39,
+    "Structural Score": 37.7,
+    "CAGR Score": 48.53,
+    "Economic Strength Score": 36.16,
+    "Rank": 37
+  },
+  {
+    "District": "Sambhal",
+    "GDDP Score": 35.38,
+    "PC GDDP Score": 30.85,
+    "Structural Score": 30.63,
+    "CAGR Score": 65.59,
+    "Economic Strength Score": 36.07,
+    "Rank": 38
+  },
+  {
+    "District": "Kanpur Dehat",
+    "GDDP Score": 34.15,
+    "PC GDDP Score": 38.52,
+    "Structural Score": 40.43,
+    "CAGR Score": 23.97,
+    "Economic Strength Score": 35.89,
+    "Rank": 39
+  },
+  {
+    "District": "Bhadohi",
+    "GDDP Score": 24.18,
+    "PC GDDP Score": 26.63,
+    "Structural Score": 52.96,
+    "CAGR Score": 45.13,
+    "Economic Strength Score": 35.4,
+    "Rank": 40
+  },
+  {
+    "District": "Azamgarh",
+    "GDDP Score": 42.85,
+    "PC GDDP Score": 16.88,
+    "Structural Score": 38.04,
+    "CAGR Score": 34.48,
+    "Economic Strength Score": 35.38,
+    "Rank": 41
+  },
+  {
+    "District": "Unnao",
+    "GDDP Score": 42.65,
+    "PC GDDP Score": 31.86,
+    "Structural Score": 27.43,
+    "CAGR Score": 36.62,
+    "Economic Strength Score": 35.32,
+    "Rank": 42
+  },
+  {
+    "District": "Fatehpur",
+    "GDDP Score": 39.41,
+    "PC GDDP Score": 33.06,
+    "Structural Score": 27.04,
+    "CAGR Score": 45.48,
+    "Economic Strength Score": 35.04,
+    "Rank": 43
+  },
+  {
+    "District": "Mau",
+    "GDDP Score": 28.6,
+    "PC GDDP Score": 20.68,
+    "Structural Score": 48.45,
+    "CAGR Score": 44.43,
+    "Economic Strength Score": 34.55,
+    "Rank": 44
+  },
+  {
+    "District": "Bahraich",
+    "GDDP Score": 42.16,
+    "PC GDDP Score": 19.03,
+    "Structural Score": 22.2,
+    "CAGR Score": 71.95,
+    "Economic Strength Score": 34.53,
+    "Rank": 45
+  },
+  {
+    "District": "Hamirpur",
+    "GDDP Score": 27.96,
+    "PC GDDP Score": 49.23,
+    "Structural Score": 26.43,
+    "CAGR Score": 52.82,
+    "Economic Strength Score": 34.24,
+    "Rank": 46
+  },
+  {
+    "District": "Deoria",
+    "GDDP Score": 34.34,
+    "PC GDDP Score": 18.62,
+    "Structural Score": 37.77,
+    "CAGR Score": 54.15,
+    "Economic Strength Score": 34.21,
+    "Rank": 47
+  },
+  {
+    "District": "Barabanki",
+    "GDDP Score": 46.18,
+    "PC GDDP Score": 33.97,
+    "Structural Score": 21.33,
+    "CAGR Score": 25.04,
+    "Economic Strength Score": 34.17,
+    "Rank": 48
+  },
+  {
+    "District": "Pratapgarh",
+    "GDDP Score": 35.01,
+    "PC GDDP Score": 17.56,
+    "Structural Score": 35.86,
+    "CAGR Score": 56.61,
+    "Economic Strength Score": 33.93,
+    "Rank": 49
+  },
+  {
+    "District": "Pilibhit",
+    "GDDP Score": 34.79,
+    "PC GDDP Score": 32.68,
+    "Structural Score": 28.54,
+    "CAGR Score": 48.57,
+    "Economic Strength Score": 33.87,
+    "Rank": 50
+  },
+  {
+    "District": "Mahoba",
+    "GDDP Score": 26.28,
+    "PC GDDP Score": 50.13,
+    "Structural Score": 18.87,
+    "CAGR Score": 76.63,
+    "Economic Strength Score": 33.86,
+    "Rank": 51
+  },
+  {
+    "District": "Sultanpur",
+    "GDDP Score": 34.28,
+    "PC GDDP Score": 27.22,
+    "Structural Score": 32.73,
+    "CAGR Score": 48.53,
+    "Economic Strength Score": 33.83,
+    "Rank": 52
+  },
+  {
+    "District": "Gonda",
+    "GDDP Score": 39.84,
+    "PC GDDP Score": 21.12,
+    "Structural Score": 29.31,
+    "CAGR Score": 46.53,
+    "Economic Strength Score": 33.61,
+    "Rank": 53
+  },
+  {
+    "District": "Chandauli",
+    "GDDP Score": 30.5,
+    "PC GDDP Score": 28.37,
+    "Structural Score": 37.65,
+    "CAGR Score": 39.67,
+    "Economic Strength Score": 33.14,
+    "Rank": 54
+  },
+  {
+    "District": "Ballia",
+    "GDDP Score": 34.47,
+    "PC GDDP Score": 16.36,
+    "Structural Score": 41.04,
+    "CAGR Score": 36.53,
+    "Economic Strength Score": 33.02,
+    "Rank": 55
+  },
+  {
+    "District": "Kaushambi",
+    "GDDP Score": 27.33,
+    "PC GDDP Score": 29.37,
+    "Structural Score": 33.52,
+    "CAGR Score": 58.29,
+    "Economic Strength Score": 32.69,
+    "Rank": 56
+  },
+  {
+    "District": "Kannauj",
+    "GDDP Score": 29.83,
+    "PC GDDP Score": 33.3,
+    "Structural Score": 21.32,
+    "CAGR Score": 75.82,
+    "Economic Strength Score": 32.57,
+    "Rank": 57
+  },
+  {
+    "District": "Kushinagar",
+    "GDDP Score": 40.32,
+    "PC GDDP Score": 20.77,
+    "Structural Score": 24,
+    "CAGR Score": 48.93,
+    "Economic Strength Score": 32.38,
+    "Rank": 58
+  },
+  {
+    "District": "Maharajganj",
+    "GDDP Score": 33.83,
+    "PC GDDP Score": 20.68,
+    "Structural Score": 30.57,
+    "CAGR Score": 54.88,
+    "Economic Strength Score": 32.33,
+    "Rank": 59
+  },
+  {
+    "District": "Baghpat",
+    "GDDP Score": 31.04,
+    "PC GDDP Score": 46.26,
+    "Structural Score": 19.24,
+    "CAGR Score": 45.4,
+    "Economic Strength Score": 31.98,
+    "Rank": 60
+  },
+  {
+    "District": "Jalaun",
+    "GDDP Score": 34.89,
+    "PC GDDP Score": 41.65,
+    "Structural Score": 16.76,
+    "CAGR Score": 44.6,
+    "Economic Strength Score": 31.77,
+    "Rank": 61
+  },
+  {
+    "District": "Budaun",
+    "GDDP Score": 41.84,
+    "PC GDDP Score": 22.9,
+    "Structural Score": 22.29,
+    "CAGR Score": 34.45,
+    "Economic Strength Score": 31.45,
+    "Rank": 62
+  },
+  {
+    "District": "Shamli",
+    "GDDP Score": 28.88,
+    "PC GDDP Score": 42.64,
+    "Structural Score": 23.89,
+    "CAGR Score": 41.19,
+    "Economic Strength Score": 31.37,
+    "Rank": 63
+  },
+  {
+    "District": "Banda",
+    "GDDP Score": 29.9,
+    "PC GDDP Score": 30.93,
+    "Structural Score": 26.86,
+    "CAGR Score": 50.29,
+    "Economic Strength Score": 31.23,
+    "Rank": 64
+  },
+  {
+    "District": "Etawah",
+    "GDDP Score": 29.68,
+    "PC GDDP Score": 35.09,
+    "Structural Score": 27,
+    "CAGR Score": 41.63,
+    "Economic Strength Score": 31.15,
+    "Rank": 65
+  },
+  {
+    "District": "Mainpuri",
+    "GDDP Score": 32.59,
+    "PC GDDP Score": 33.92,
+    "Structural Score": 20.04,
+    "CAGR Score": 51.63,
+    "Economic Strength Score": 31,
+    "Rank": 66
+  },
+  {
+    "District": "Farrukhabad",
+    "GDDP Score": 31.21,
+    "PC GDDP Score": 30.52,
+    "Structural Score": 18.24,
+    "CAGR Score": 65.56,
+    "Economic Strength Score": 30.62,
+    "Rank": 67
+  },
+  {
+    "District": "Siddharth Nagar",
+    "GDDP Score": 29.55,
+    "PC GDDP Score": 15,
+    "Structural Score": 30.79,
+    "CAGR Score": 53.2,
+    "Economic Strength Score": 29.38,
+    "Rank": 68
+  },
+  {
+    "District": "Lalitpur",
+    "GDDP Score": 28.43,
+    "PC GDDP Score": 40.9,
+    "Structural Score": 17.2,
+    "CAGR Score": 40.7,
+    "Economic Strength Score": 28.78,
+    "Rank": 69
+  },
+  {
+    "District": "Balrampur",
+    "GDDP Score": 28.99,
+    "PC GDDP Score": 20.04,
+    "Structural Score": 17.38,
+    "CAGR Score": 76.65,
+    "Economic Strength Score": 28.48,
+    "Rank": 70
+  },
+  {
+    "District": "Chitrakoot",
+    "GDDP Score": 19.31,
+    "PC GDDP Score": 32.68,
+    "Structural Score": 26.25,
+    "CAGR Score": 55.2,
+    "Economic Strength Score": 27.66,
+    "Rank": 71
+  },
+  {
+    "District": "Auraiya",
+    "GDDP Score": 23.59,
+    "PC GDDP Score": 30.6,
+    "Structural Score": 34.78,
+    "CAGR Score": 15,
+    "Economic Strength Score": 27.49,
+    "Rank": 72
+  },
+  {
+    "District": "Sant Kabir Nagar",
+    "GDDP Score": 22.28,
+    "PC GDDP Score": 19.31,
+    "Structural Score": 32.96,
+    "CAGR Score": 45.73,
+    "Economic Strength Score": 27.23,
+    "Rank": 73
+  },
+  {
+    "District": "Kasganj",
+    "GDDP Score": 26.86,
+    "PC GDDP Score": 34.41,
+    "Structural Score": 17.57,
+    "CAGR Score": 41.59,
+    "Economic Strength Score": 27.06,
+    "Rank": 74
+  },
+  {
+    "District": "Shravasti",
+    "GDDP Score": 15,
+    "PC GDDP Score": 31.12,
+    "Structural Score": 16.55,
+    "CAGR Score": 71.39,
+    "Economic Strength Score": 24.33,
+    "Rank": 75
+  }
+]
